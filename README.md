@@ -2,6 +2,8 @@
 
 A simple todo app in flutter.
 
+[![alt Todo App](https://github.com/akshayejh/what_todo/blob/master/assets/images/github_cover.png?raw=true)](https://github.com/akshayejh/what_todo)
+
 ## Getting Started
 
 This project is made for a youtube tutorial series.
