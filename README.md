@@ -1,16 +1,21 @@
-# what_todo
+# What Todo
 
 A simple todo app in flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is made for a youtube tutorial series.
 
-A few resources to get you started if this is your first Flutter project:
+Project is still WIP.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Watch Tutorials:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Part 1 - https://youtu.be/mOiXndQAZpw - Homepage UI
+
+Part 2 - https://youtu.be/BKoVcV-lLcQ - Taskpage UI
+
+Part 3 - https://youtu.be/IUkHJtCAXt4 - Creating Tasks
+
+Part 4 - https://youtu.be/iZtBILSypcY - Creating Todo
+
+Part 5 - In Works...
